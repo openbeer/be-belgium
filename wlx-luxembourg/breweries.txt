@@ -1,2 +1,5 @@
-######################
-# breweries
+########################################################
+# Breweries in Wallonie [Wallonia] / Luxembourg (fr)
+
+Achouffe|Brasserie d' Achouffe, 1982, www.achouffe.be, Rue du Village 32 // 6666 Wibrin-Achouffe
+

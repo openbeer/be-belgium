@@ -1,4 +1,4 @@
-be-belgium
-==========
+# Belgium (be)
 
-Free open public domain beer &amp; brewery data for Belgium / Europe
+Free open public domain beer & brewery data for Belgium in Europe
+

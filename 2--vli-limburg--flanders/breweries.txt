@@ -1,6 +1,11 @@
 ######################################################
 # Breweries in Vlaanderen [Flanders] / Limburg (nl)
 
-Achel|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1999, www.achelsekluis.org, De Kluis 1 // 3930 Hamont-Achel, trappist
+[achelsekluis]
+  Achel|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1999
+  www.achelsekluis.org
+  De Kluis 1 // 3930 Hamont-Achel
+  trappist
+
 
 

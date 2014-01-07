@@ -1,5 +1,9 @@
 ###########################################################
 # Breweries in Vlaanderen [Flanders] / Antwerpen
 
-Achilles|Microbrouwerij Achilles, 1999, www.serafijn-bier.be, Keizershofdijk 2 bus 2 // 2222 Itegem
+[achilles]
+  Achilles|Microbrouwerij Achilles, 1999
+  www.serafijn-bier.be
+  Keizershofdijk 2 bus 2 // 2222 Itegem
+
 

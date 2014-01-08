@@ -2,7 +2,28 @@
 # Breweries in West Vlaanderen [Flanders] (nl)
 
 [alvinne]
-  Alvinne|Picobrouwerij Alvinne, 2004
+  Alvinne|Brouwerij Alvinne|Picobrouwerij Alvinne, 2004
   www.alvinne.be
-  Mellestraat 138 // 8501 Heule
+  wikipedia: Picobrouwerij_Alvinne
+  Vaartstraat 4a // 8552 Moen/Zwevegem
+
+# old address -> Mellestraat 138 // 8501 Heule
+
+
+[bavik]
+  Bavik|Brouwerij Bavik, 1894
+  www.bavik.be
+  Rijksweg 33 // 8531 Bavikhove
+  nl.wikipedia: Brouwerij_Bavik
+
+# untappd.com/bavik
+
+[bockor]
+  Bockor|Brouwerij Bockor, 1892
+  www.bockor.be‎
+  Kwabrugstraat 5 // 8500 Bellegem
+
+# untappd.com/BrouwerijBockor
+# untappd.com/BrouwerijBockor/beer
+# belgium.beertourism.com/belgian-breweries/brouwerij-bockor
 

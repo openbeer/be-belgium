@@ -1,3 +1,51 @@
-###############
-# beers
+#####################################
+# Beers in West Vlaanderen (VWV)
+
+
+____________________________________________
+- Brouwerij Alvinne, Moen
+
+Alvinne Blond, 6.0%, blond_ale   # 33 IBU
+Alvinne Bruin, 6.5%, brown_ale   # 32 IBU
+Alvinne Blond Extra, 7.1%,  strong_golden_ale  # 30 IBU
+Alvinne Tripel, 8.7%
+
+Alvinne Extra Restyled
+Alvinne Freaky  # ??? brand collection ?? or beer ??
+
+Balthazar, 9.0%, seasonal|christmas|three_wise_men
+Melchior, 11.0%, seasonal|christmas|three_wise_men
+Gaspar,  8.0%, seasonal|christmas|three_wise_men
+
+
+___________________________________
+- Brouwerij Bavik, Bavikhove
+
+Bavik Premium Pils
+
+Bavik Triple Bock, 3%
+
+Wittekerke,  5%, witbier|wheat
+
+Petrus Oud Bruin,   5.5%, bruin
+Petrus Speciale,    5,5%, speciale
+Petrus Gouden Tripel
+Petrus Dubbel Bruin,   6.5%, brown
+Petrus Blond
+Petrus Winter #9,     9%, winter|ale
+Petrus Aged Pale,    7.3%, aged_pale 
+
+
+_________________________________
+- Brouwerij Bockor, Bellegem
+
+Omer (Traditional Blond), 8%,  blond|golden_ale
+
+Bellegems Witbier, 5%, wheat
+
+Vander Ghinste Oud Bruin, 5.5%, sour_brown_ale
+
+Cuvée des Jacobins, 5.5%,  flemish_sour_ale
+
+
 

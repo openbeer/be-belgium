@@ -7,3 +7,8 @@
   Keizershofdijk 2 bus 2 // 2222 Itegem
 
 
+[hetanker]
+  Het Anker|Brouwerij Het Anker
+  www.hetanker.be
+  Guido Gezellelaan 49 // 2800 Mechelen
+

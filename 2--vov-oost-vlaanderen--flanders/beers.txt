@@ -1,3 +1,34 @@
-###############
-# beers
+######################################
+# Beers in Oost Vlaanderen (VOV)
+
+_____________________________________
+- Brouwerij Bosteels, Buggenhout
+
+Tripel Karmeliet, 8%, triple
+DeuS|Brut des Flandres,  11.5%,  brut      # Bière de Champagne
+Pauwel Kwak|Kwak,  8.4%,  amber_ale
+
+
+
+
+______________________________________
+- Brouwerij Cnudde, Eine-Oudenaarde
+
+Cnudde Bruin, 4.7%, flemish_brown_ale
+
+
+______________________________________
+- Brouwerij Contreras, Gavere
+
+Contrapils|Pils Contreras, 5%, pilsner
+Tonneke, 5%, belgian_ale
+Contreras' Especial Mars, 6.5%, maerzen
+Valeir Blond, 6.5%, belgian_pale_ale     # blond speciaalbier
+Valeir Donker, 6.5%, belgian_brown_ale   #  donker speciaalbier  -- formerly Carlos ??
+Valeir Extra, 6.5%, belgian_ipa          # blond speciaalbier, I.P.A.-style 
+Valeir Divers, 8.5%, belgian_tripel
+
+#  X-Mas Beer, 8.5%
+
+
 

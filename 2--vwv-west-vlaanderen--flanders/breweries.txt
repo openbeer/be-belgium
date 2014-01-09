@@ -27,3 +27,21 @@
 # untappd.com/BrouwerijBockor/beer
 # belgium.beertourism.com/belgian-breweries/brouwerij-bockor
 
+[deca]
+  Brouwerij Deca, 1850
+  www.decabrouwerij.com
+  Elverdingestraat 4 // 8640 Woesten
+  nl.wikipedia: Brouwerij_Deca
+
+[dedollebrouwers]
+  De Dolle Brouwers, 1980    #  "The Mad Brewers"
+  www.dedollebrouwers.be
+  Roeselarestraat 12b // 8600 Essen
+  wikipedia: De_Dolle_Brouwers
+  nl.wikipedia: De_Dolle_Brouwers
+
+# belgium.beertourism.com/belgian-breweries/de-dolle-brouwers
+
+
+
+

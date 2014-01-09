@@ -1,3 +1,23 @@
 ######################
 # breweries
 
+[bosteels]
+  Bosteels|Brouwerij Bosteels,  1791
+  wikipedia: Brouwerij_Bosteels
+  Kerkstraat 92 // 9255 Buggenhout
+  www.bestbelgianspecialbeers.be
+
+# belgium.beertourism.com/belgian-breweries/brouwerij-bosteels
+
+
+[cnudde]
+  Brouwerij Cnudde, 1919
+  nl.wikipedia: Brouwerij_Cnudde
+  Fabriekstraat 8 // 9700 Eine-Oudenaarde
+
+[contreras]
+  Brouwerij Contreras, 1818
+  nl.wikipedia: Brouwerij_Contreras
+  Molenstraat 110 // 9890 Gavere
+  www.contreras.be
+

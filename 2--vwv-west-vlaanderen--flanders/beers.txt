@@ -48,4 +48,32 @@ Vander Ghinste Oud Bruin, 5.5%, sour_brown_ale
 Cuvée des Jacobins, 5.5%,  flemish_sour_ale
 
 
+__________________________________
+- Brouwerij Deca, Woesten
+
+Antiek Blond Super 5 Ale, 5%
+Antiek Blond, 8%, belgian_strong_pale_ale
+
+Vleteren Bruin 8°,   8%, belgian_strong_ale  # port barrel aged
+Vleteren Bruin 12°, 12%  belgian_strong_ale  # port barrel aged
+Vleteren Blond 12°, 12%    # bourbon/vanilla barrel aged
+
+
+____________________________________
+- De Dolle Brouwers, Essen
+
+De Dolle Arabier,  8%, belgian_strong_pale_ale|blond    # Particularly hoppy beer, dry-hopped with whole leaf Nugget hops grown in Poperinge.
+De Dolle Oerbier, 9%,  belgian_strong_dark_ale|strong_dubbel    # Meaning "original beer", this was the brewery's first product. The addition of lactobacillus gives the beer a somewhat tart taste when aged. Hopped with Goldings from Poperinge.
+De Dolle Dulle Teve, 10%,  belgian_tripel  # Strong golden Tripel-style ale, the name meaning literally "Mad Bitch."
+De Dolle Special Extra Export Stout, 9%,  belgian_imperial_stout   # Strong dark beer
+
+De Dolle Boskeun,  7%,  tripel|belgian_strong_pale_ale|seasonal|easter     #  Literally "rabbit of the woods", this strong blond Easter beer (Paasbier) hopped with Goldings.
+De Dolle Stille Nacht, 12%,  belgian_tripel|seasonal|christmas|winter  # Strong Christmas beer
+
+
+# Lichtervelds Blond, 9%   # Tripel-style ale.
+# Oeral, 6% 
+# 21,  9%, 21°  # brewed only in 1998 to celebrate the 21st anniversary of the Hotel Erasmus in Bruges
+
+
 

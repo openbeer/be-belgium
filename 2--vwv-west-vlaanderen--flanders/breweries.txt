@@ -1,6 +1,23 @@
 ####################################################
 # Breweries in West Vlaanderen [Flanders] (nl)
 
+[halvemaan]
+  Halve Maan
+  // Brugge
+
+[deregenboog]
+  De Regenboog
+  // Brugge
+
+
+[destruise]
+  De Struise
+
+[westvleteren]
+  Westvleteren
+
+
+
 [alvinne]
   Alvinne|Brouwerij Alvinne|Picobrouwerij Alvinne, 2004
   www.alvinne.be
@@ -41,6 +58,45 @@
   nl.wikipedia: De_Dolle_Brouwers
 
 # belgium.beertourism.com/belgian-breweries/de-dolle-brouwers
+
+
+[urthel]
+  Urthel
+
+[rodenbach]
+  Rodenbach
+
+
+[vanhonsebrouck]
+  Vanhonsebrouck, 1900
+  www.vanhonsebrouck.be
+  Oostrozebekestraat 43 // 8770 Ingelmunster
+  belgianfamilybrewers
+
+
+[verhaeghe]
+  Verhaeghe|Brouwerij Verhaeghe, 1885
+  www.brouwerijverhaeghe.be
+  wikipedia: Brewery_Verhaeghe
+  nl.wikipedia: Brouwerij_Verhaeghe
+  Beukenhofstraat 96 // 8570 Vichte
+  belgianfamilybrewers
+
+
+[vaneecke]
+  Van Eecke|Brouwerij Van Eecke, 1862
+  www.brouwerijvaneecke.be
+  nl.wikipedia: Brouwerij_Van_Eecke
+  Douvieweg 2 // 8978 Watou
+  belgianfamilybrewers
+
+
+[sintbernardus]
+  Sint Bernardus|Brouwerij St. Bernard, 1946
+  www.sintbernardus.be
+  wikipedia: St._Bernardus_Brewery
+  Trappistenweg 23 // 8978 Watou
+  belgianfamilybrewers
 
 
 

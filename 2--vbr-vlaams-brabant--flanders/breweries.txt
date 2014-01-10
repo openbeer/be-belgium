@@ -1,2 +1,91 @@
-######################
-# breweries
+########################################
+# Breweries in Vlaams Brabant (VBR)
+
+
+[palm]
+  Palm|Brouwerij Palm, 1747
+  www.palm.be
+  wikipedia: Palm_Breweries
+  nl.wikipedia: Brouwerij_Palm
+  // Steenhuffel
+
+
+[deblock]
+  De Block|Brouwerij De Block, 1887
+  www.satanbeer.com
+  nl.wikipedia: Brouwerij_De_Block
+  Nieuwbaan 92 // 1785 Merchtem-Peizegem  # en Peizegem
+  7_000 hl
+
+
+[affligem]
+  Affligem
+  www.affligembeer.be
+  
+
+[mortsubite]
+  Mort Subite|Brouwerij Mort Subite
+  nl.wikipedia: Brouwerij_Mort_Subite
+  60_000 hl # 2007
+  www.mort-subite.be
+
+
+[girardin]
+  Girardin|Brouwerij Girardin, 1845
+  nl.wikipedia: Brouwerij_Girardin
+
+
+[timmermans]
+  Timmermans|Brouwerij Timmermans, 1702
+  nl.wikipedia: Brouwerij_Timmermans
+  15_000 hl
+  brtimmermans.be
+
+[decam]
+  De Cam|Geuzestekerij De Cam, 1992
+  nl.wikipedia: Geuzestekerij_De_Cam
+  100 hl
+  
+
+[driefonteinen]
+  Drie Fonteinen|3 Fonteinen|Geuzestekerij 3 Fonteinen, 1953
+  www.3fonteinen.be
+  wikipedia: 3_Fonteinen
+  nl.wikipedia: 3_Fonteinen
+  //  Beersel
+  1000 hl # en 2010  - 700hl lambiek
+
+
+[boon]
+  Boon|Brouwerij Boon, 1680  #1680/1978
+  www.boon.be
+  nl.wikipedia: Brouwerij_Boon
+  // Lembeek
+  10_000 hl
+
+
+[lindenmans]
+  Lindenmans|Brouwerij Lindemans, 1822
+  nl.wikipedia: Brouwerij_Lindemans
+  85_000 hl # en 2010
+  www.lindemans.be
+
+
+[domushuisbrouwerij]
+  Domus Huisbrouwerij|Brouwerij Domus, 1985
+  nl.wikipedia: Brouwerij_Domus
+  // Leuven
+  www.domusleuven.be
+
+[loterbol]
+  Loterbol|Brouwerij Loterbol, 1995
+  www.loterbol.be
+  nl.wikipedia: Brouwerij_Loterbol
+
+
+[hanssensartisanaal]
+  Hanssens Artisanaal|Geuzestekerij Hanssens Artisanaal, 1896
+  nl.wikipedia: Geuzestekerij_Hanssens_Artisanaal
+  // Dworp
+  300 hl # en 2003
+

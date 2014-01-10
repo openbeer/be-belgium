@@ -9,6 +9,12 @@
 
 # belgium.beertourism.com/belgian-breweries/brouwerij-bosteels
 
+[delandtsheer]
+  De Landtsheer|Brouwerij De Landtsheer|Brouwerij Malheur, 1997
+  nl.wikipedia: Brouwerij_De_Landtsheer
+  Mandekensstraat 179 // 9255 Buggenhout
+  www.malheur.be
+
 
 [cnudde]
   Brouwerij Cnudde, 1919
@@ -20,4 +26,68 @@
   nl.wikipedia: Brouwerij_Contreras
   Molenstraat 110 // 9890 Gavere
   www.contreras.be
+
+[vansteenberge]
+  Van Steenberge|Brouwerij Van Steenberge, 1784
+  vansteenberge.com
+  nl.wikipedia: Brouwerij_Van_Steenberge
+  Lindenlaan 25 // 9940 Ertvelde
+
+# untappd.com/brewery/7778
+
+[proefbrouwerij]
+  Proefbrouwerij|De Proefbrouwerij, 1996
+  wikipedia: De_Proefbrouwerij
+  Doornzelestraat 20 //9080 Lochristi
+  www.proefbrouwerij.com
+# untappd.com/brewery/432
+
+[huyghe]
+  Huyghe|Brouwerij Huyghe, 1906
+  nl.wikipedia: Brouwerij_Huyghe
+  www.delirium.be
+  // Melle
+
+[sintcanarus]
+  Sint Canarus|Huisbrouwerij Sint Canarus, 2002
+  nl.wikipedia: Huisbrouwerij_Sint_Canarus
+  www.sintcanarus.be
+  Polderweg 2 // 9800 Deinze
+
+[liefmans]
+  Liefmans, 1679
+  wikipedia: Liefmans_Brewery
+  www.liefmans.be
+  Aalststraat 200 // 9700 Oudenaarde
+  
+[roman]
+  Roman|Brouwerij Roman, 1545
+  Hauwaart 105 // 9700 Oudenaarde
+  www.roman.be
+  nl.wikipedia: Brouwerij_Roman
+
+
+[glazentoren]
+  Glazen Toren|Brouwerij De Glazen Toren, 2004
+  nl.wikipedia: Brouwerij_De_Glazen_Toren
+  www.glazentoren.be
+  Glazentorenweg 11‎ // 9420 Erpe-Mere
+
+
+[deryck]
+  De Ryck|Brouwerij De Ryck, 1886
+  nl.wikipedia: Brouwerij_De_Ryck
+  www.brouwerijderyck.be
+
+[vandenbossche]
+  Van Den Bossche|Brouwerij Van Den Bossche, 1897
+  nl.wikipedia: Brouwerij_Van_Den_Bossche
+  www.paterlieven.be
+  Sint-Lievensplein 16 // Plaats // 9550 Sint-Lievens-Esse
+
+[slaghmuylder]
+  Slaghmuylder|Brouwerij Slaghmuylder, 1860
+  nl.wikipedia: Brouwerij_Slaghmuylder
+  // Ninove
+  
 

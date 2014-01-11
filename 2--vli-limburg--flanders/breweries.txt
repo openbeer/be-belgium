@@ -1,5 +1,12 @@
-######################################################
-# Breweries in Vlaanderen [Flanders] / Limburg (nl)
+###########################################################
+# Breweries in Limburg (VLI) - Vlaanderen [Flanders] (nl)
+#
+# note: postal codes: 3500-3999
+
+
+# Three Arrondissement
+#   Hasselt • Maaseik • Tongeren
+
 
 [achelsekluis]
   Achel|Brouwerij de Achelse Kluis|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1999

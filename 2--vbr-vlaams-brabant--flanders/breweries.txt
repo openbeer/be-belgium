@@ -1,5 +1,11 @@
 ########################################
-# Breweries in Vlaams Brabant (VBR)
+# Breweries in Vlaams Brabant (VBR) (nl)
+#
+# Note: postal codes: 1500-1999, 3000-3499
+
+
+# Two Arrondissement
+#   Halle-Vilvoorde • Leuven
 
 
 [palm]

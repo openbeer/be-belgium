@@ -1,5 +1,12 @@
-######################
-# breweries
+###########################################
+# Breweries in Oost Vlaanderen (VOV) (nl)
+#
+# note: postal codes: 9000-9999
+
+
+# 6 Arrondissement
+#   Aalst • Dendermonde • Eeklo • Ghent • Oudenaarde • Sint-Niklaas
+
 
 [bosteels]
   Bosteels|Brouwerij Bosteels,  1791

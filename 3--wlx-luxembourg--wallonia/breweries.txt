@@ -1,5 +1,13 @@
-########################################################
-# Breweries in Wallonie [Wallonia] / Luxembourg (fr)
+#############################################################
+# Breweries in Luxembourg (WLX) - Wallonie [Wallonia] (fr)
+#
+# note: postal codes: 6600-6999
+
+
+# 5 Arrondissement
+#  Arlon • Bastogne • Marche-en-Famenne • Neufchâteau • Virton
+
+
 
 [achouffe]
   Achouffe|Brasserie d' Achouffe, 1982

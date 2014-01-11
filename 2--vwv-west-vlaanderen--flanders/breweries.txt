@@ -1,5 +1,12 @@
 ####################################################
-# Breweries in West Vlaanderen [Flanders] (nl)
+# Breweries in West Vlaanderen (VWV) [Flanders] (nl)
+#
+# note: postal codes: 8000-8999
+
+
+# 8 Arrondissement
+#  Bruges • Diksmuide • Ypres • Kortrijk • Ostend • Roeselare • Tielt • Veurne
+
 
 [halvemaan]
   Halve Maan|Brouwerij De Halve Maan|Brouwerij Henri Maes, 1856

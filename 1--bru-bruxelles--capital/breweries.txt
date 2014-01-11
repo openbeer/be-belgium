@@ -1,5 +1,8 @@
 #################################
 # Breweries in Bruxelles (BRU)
+#
+# Note: postal codes: 1000-1299
+
 
 [cantillon]
   Cantillon|Brouwerij Cantillon, 1900

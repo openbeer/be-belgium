@@ -1,5 +1,13 @@
-###########################################################
-# Breweries in Vlaanderen [Flanders] / Antwerpen
+##############################################################
+# Breweries in Antwerpen (VAN) Vlaanderen [Flanders] / (nl)
+#
+# Note: postal codes: 2000-2999
+
+
+
+# Three Arrondissement
+#   Antwerp • Mechelen • Turnhout
+
 
 [achilles]
   Achilles|Microbrouwerij Achilles, 1999

@@ -1,5 +1,11 @@
 #######################################################
-# Breweries in Hainaut / Wallonie [Wallonia] /  (fr)
+# Breweries in Hainaut (WHT) / Wallonie [Wallonia] (fr)
+#
+# note: postal codes: 6000-6599,7000-7999
+
+
+# 7 Arrondissement
+#   Ath • Charleroi • Mons • Mouscron • Soignies • Thuin • Tournai
 
 
 [abbayederocs]

@@ -1,2 +1,10 @@
-######################
-# breweries
+#############################################
+# Breweries in Liege (WLG), Wallonia (fr)
+#
+# note: postal codes: 4000-4999
+
+# 5 Arrondissement
+#   Huy • Liège • Waremme • Verviers (fr) • Verviers (de)
+
+
+

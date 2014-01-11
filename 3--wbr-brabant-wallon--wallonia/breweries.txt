@@ -1,2 +1,9 @@
-######################
-# Breweries
+######################################################
+# Breweries in Brabant Wallon (WBR) - Wallonia (fr)
+#
+# note: postal codes: 1300-1499
+
+# One Arrondissement
+#   Nivelles
+
+

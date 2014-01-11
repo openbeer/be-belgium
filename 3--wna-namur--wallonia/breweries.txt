@@ -1,2 +1,9 @@
-######################
-# breweries
+##############################################
+# Breweries in Namur (WNA) - Wallonia (fr)
+#
+# postal codes: 5000-5999
+
+
+# 3 Arrondissement
+#  Dinant • Namur • Philippeville
+

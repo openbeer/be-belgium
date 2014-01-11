@@ -1,9 +1,31 @@
 #######################################################
-# Breweries in  Wallonie [Wallonia] / Hainaut (fr)
+# Breweries in Hainaut / Wallonie [Wallonia] /  (fr)
 
 
 [abbayederocs]
   Abbaye des Rocs|Brasserie de l'Abbaye des Rocs, 1979
   www.abbaye-des-rocs.com
   37 Chaussée Brunehault // 7387 Montignies-sur-Roc
+  nl.wikipedia: Brasserie_de_l'Abbaye_des_Rocs
+
+
+[blaugies]
+  Blaugies|Brasserie de Blaugies, 1988
+  www.brasseriedeblaugies.com
+  nl.wikipedia: Brasserie_de_Blaugies
+  // Blaugies
+
+
+[cazeau]
+  Cazeau|Brasserie de Cazeau, 2004   # 2004 (1753)
+  www.brasseriedecazeau.be
+  450 hl # en 2011
+  nl.wikipedia: Brasserie_de_Cazeau
+  // Templeuve
+
+[brunehaut]
+  Brunehat|Brasserie de Brunehaut, 1890
+  4_000 hl  # en 2012
+  nl.wikipedia: Brasserie_de_Brunehaut
+  // Rongy (Brunehaut)
 

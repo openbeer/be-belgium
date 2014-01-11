@@ -2,7 +2,9 @@
 # Breweries in West Vlaanderen [Flanders] (nl)
 
 [halvemaan]
-  Halve Maan
+  Halve Maan|Brouwerij De Halve Maan|Brouwerij Henri Maes, 1856
+  nl.wikipedia: Brouwerij_De_Halve_Maan_(Brugge)
+  www.halvemaan.be
   // Brugge
 
 [deregenboog]
@@ -11,11 +13,15 @@
 
 
 [destruise]
-  De Struise
+  De Struise|De Struise Brouwers, 2001
+  nl.wikipedia: De_Struise_Brouwers
+  Kasteelstraat 50 //8640 Oostvleteren
+  www.struisebrouwers.be
+
 
 [westvleteren]
   Westvleteren
-
+  
 
 
 [alvinne]
@@ -61,10 +67,16 @@
 
 
 [urthel]
-  Urthel
+  Urthel|Brouwerij Urthel, 2000
+  nl.wikipedia: Brouwerij_Urthel
+  // Ruiselede
+  www.urthel.com
+
 
 [rodenbach]
-  Rodenbach
+  Rodenbach|Brouwerij Rodenbach
+  nl.wikipedia: Rodenbach_(brouwerij)
+  www.rodenbach.be
 
 
 [vanhonsebrouck]
@@ -98,6 +110,15 @@
   Trappistenweg 23 // 8978 Watou
   belgianfamilybrewers
 
+
+## check if located in west-vlaanderen
+
+[deranke]
+  De Ranke|Brouwerij De Ranke, 1994
+  Brugstraat 43 // 8560 Wevelgem
+  www.deranke.be
+  nl.wikipedia: Brouwerij_De_Ranke
+  1_700 hl  # en 2007
 
 
 

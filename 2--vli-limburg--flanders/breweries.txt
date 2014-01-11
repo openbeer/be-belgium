@@ -5,8 +5,23 @@
   Achel|Brouwerij de Achelse Kluis|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1999
   www.achelsekluis.org
   wikipedia: Achel_Brewery
+  nl.wikipedia: Achel_(bier)
   De Kluis 1 // 3930 Hamont-Achel
+  4_500 hl
   trappist
+
+[kerkom]
+  Kerkom|Brouwerij Kerkom, 1878
+  www.brouwerijkerkom.be
+  Naamsesteenweg 469 // 3800 Sint-Truiden
+  nl.wikipedia: Brouwerij_Kerkom
+
+
+
+
+
+
+
 
 
 

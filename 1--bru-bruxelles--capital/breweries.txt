@@ -1,2 +1,10 @@
-######################
-# breweries
+#################################
+# Breweries in Bruxelles (BRU)
+
+[cantillon]
+  Cantillon|Brouwerij Cantillon, 1900
+  www.cantillon.be
+  wikipedia: Cantillon_Brewery
+  nl.wikipedia: Brouwerij_Cantillon
+  1_700 hl
+

@@ -8,7 +8,7 @@
 #   Hasselt • Maaseik • Tongeren
 
 
-[achelsekluis]
+[achel]
   Achel|Brouwerij de Achelse Kluis|Brouwerij der Sint-Benedictusabdij de Achelse Kluis, 1999
   www.achelsekluis.org
   wikipedia: Achel_Brewery
@@ -20,7 +20,7 @@
 [kerkom]
   Kerkom|Brouwerij Kerkom, 1878
   www.brouwerijkerkom.be
-  Naamsesteenweg 469 // 3800 Sint-Truiden
+  Naamsesteenweg 469 // 3800 Sint-Truiden   # en Kerkom
   nl.wikipedia: Brouwerij_Kerkom
 
 

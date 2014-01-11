@@ -51,9 +51,15 @@
 
 [duvelmoortgat]
   Duvel Moortgat|Brouwerij Duvel Moortgat, 1871
-  Breendonk-Dorp 58 // 2870 Puurs    # en Breendonk
+  Breendonk-Dorp 58 // 2870 Breendonk-Puurs    # en Breendonk 
   nl.wikipedia: Brouwerij_Duvel_Moortgat
   wikipedia: Duvel_Moortgat_Brewery
   270_000 hl   # 2001
+
+
+[pakhuis]
+  Pakhuis
+  Vlaamse Kaai 76 // 2000 Antwerp
+  www.pakhuis.info
 
 

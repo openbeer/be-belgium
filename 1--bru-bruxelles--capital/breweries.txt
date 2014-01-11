@@ -6,6 +6,7 @@
 
 [cantillon]
   Cantillon|Brouwerij Cantillon, 1900
+  Rue Gheude 56 // 1070 Bruxelles (Anderlecht)
   www.cantillon.be
   wikipedia: Cantillon_Brewery
   nl.wikipedia: Brouwerij_Cantillon

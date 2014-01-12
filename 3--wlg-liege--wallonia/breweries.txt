@@ -7,4 +7,12 @@
 #   Huy • Liège • Waremme • Verviers (fr) • Verviers (de)
 
 
+[graindorge]
+  Grain d'Orge|Brasserie Grain d'Orge, 2002
+  Centre 16 // 4852 Hombourg
+  nl.wikipedia: Brasserie_Grain_d'Orge_(Hombourg)
+  1_360 hl  # en 2012
+
+
+
 

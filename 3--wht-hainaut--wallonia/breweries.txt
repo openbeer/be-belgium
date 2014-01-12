@@ -10,28 +10,96 @@
 
 [abbayederocs]
   Abbaye des Rocs|Brasserie de l'Abbaye des Rocs, 1979
-  www.abbaye-des-rocs.com
   37 Chaussée Brunehault // 7387 Montignies-sur-Roc
+  www.abbaye-des-rocs.com
   nl.wikipedia: Brasserie_de_l'Abbaye_des_Rocs
 
+[augrenoise]
+  Augrenoise|Brasserie Augrenoise, 2001
+  Chaussée de Bruxelles 184 // 7061 Casteau
+  www.augrenoise.com
+  nl.wikipedia: Brasserie_Augrenoise
+
+[binchoise]
+  Binchoise|Brasserie La Binchoise, 1989
+  Faubourg Saint Paul 38 // 7130 Binche
+  www.brasserielabinchoise.be
+  nl.wikipedia: Brasserie_La_Binchoise
+  3_500 hl
 
 [blaugies]
   Blaugies|Brasserie de Blaugies, 1988
+  435 Rue de la Frontière // 7370 Dour (Blaugies)
   www.brasseriedeblaugies.com
   nl.wikipedia: Brasserie_de_Blaugies
-  // Blaugies
 
-
-[cazeau]
-  Cazeau|Brasserie de Cazeau, 2004   # 2004 (1753)
-  www.brasseriedecazeau.be
-  450 hl # en 2011
-  nl.wikipedia: Brasserie_de_Cazeau
-  // Templeuve
+[brootcoorens]
+  Brootcoorens|Brasserie Brootcoorens, 2000
+  Rue de Maubeuge 197 // 6560 Erquelinnes
+  nl.wikipedia: Brasserie_Brootcoorens
 
 [brunehaut]
   Brunehat|Brasserie de Brunehaut, 1890
-  4_000 hl  # en 2012
+  Rue des Panneries 17-19 // 7623 Rongy (Brunehaut)
   nl.wikipedia: Brasserie_de_Brunehaut
-  // Rongy (Brunehaut)
+  4_000 hl  # en 2012
 
+[caulier]
+  Caulier|Brasserie Caulier, 1994
+  Rue de Sondeville 134 // 7600 Péruwelz
+  nl.wikipedia: Brasserie_Caulier_(Péruwelz)
+  5_000 hl
+
+[cazeau]
+  Cazeau|Brasserie de Cazeau, 2004   # 2004 (1753)
+  67 Rue de Cazeau  // 7520 Templeuve
+  www.brasseriedecazeau.be
+  450 hl # en 2011
+  nl.wikipedia: Brasserie_de_Cazeau
+
+[chimay]
+  Chimay         # check -- only brand ?? brewery in operation ??
+  Route de Charlemagne 8 // 6464 Baileux
+  www.chimay.com
+  wikipedia: Chimay_Brewery
+  nl.wikipedia: Chimay_(bier)
+  123_000 hl
+
+[deranke]
+  De Ranke|Brouwerij De Ranke, 1994                 ## use Brasserie  - check is reallz in WHT not in flanders??
+  Rue Petit Tourcoing 1a // 7711 Dottignies
+  www.deranke.be
+  nl.wikipedia: Brouwerij_De_Ranke
+  1_700 hl   # en 2007
+
+
+[dubuisson]
+  Dubuisson|Brasserie Dubuisson
+  Chausée de Mons 28 // 7904 Pipaix-Leuze
+  nl.wikipedia: Brouwerij_Dubuisson
+
+[dupont]
+  Dupont|Brasserie Dupont
+  Rue Basse 5 // 7904 Tourpes-Leuze
+  nl.wikipedia: Brouwerij_Dupont_(Tourpes)
+
+[ellezelloise]
+  Ellezelloise|Brasserie Ellezelloise
+  Guinaumont 75 // 7890 Ellezelles
+
+[geants]
+  Géants|Brasserie Des Géants|Brasserie des Légendes, 1998
+  Rue de Castel 19 // 7801 Irchonwelz (Ath)
+
+
+[silly]
+  Silly|Brasserie de Silly
+  Rue Ville Basse 2 // 7830 Silly
+  www.silly-beer.com
+  nl.wikipedia: Brasserie_de_Silly
+  10_000 hl   # en 2008
+
+[vapeur]
+  Vapeur|Brasserie à Vapeur
+  Rue de Maréchal 1 // 7904 Pipaix-Leuze
+  nl.wikipedia: Brasserie_à_Vapeur

@@ -4,9 +4,12 @@
 # note: postal codes: 8000-8999
 
 
-# 8 Arrondissement
+# 8 Arrondissement    -- fix: use nl names not fr
 #  Bruges • Diksmuide • Ypres • Kortrijk • Ostend • Roeselare • Tielt • Veurne
 
+
+_______________
+- Brugge
 
 [halvemaan]
   Halve Maan|Brouwerij De Halve Maan|Brouwerij Henri Maes, 1856
@@ -14,23 +17,14 @@
   www.halvemaan.be
   // Brugge
 
+
 [regenboog]
   Regenboog|De Regenboog
   Koningin Astridlaan 13 // 8310 Assebroek-Brugge
 
 
-[destruise]
-  De Struise|De Struise Brouwers, 2001
-  nl.wikipedia: De_Struise_Brouwers
-  Kasteelstraat 50 //8640 Oostvleteren
-  www.struisebrouwers.be
-
-
-[westvleteren]
-  Westvleteren
-  St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren
-  www.sintsixtus.be
-
+_______________________
+- Others
 
 [alvinne]
   Alvinne|Brouwerij Alvinne|Picobrouwerij Alvinne, 2004
@@ -49,6 +43,7 @@
 
 # untappd.com/bavik
 
+
 [bockor]
   Bockor|Brouwerij Bockor, 1892
   www.bockor.be‎
@@ -64,6 +59,8 @@
   Elverdingestraat 4 // 8640 Woesten
   nl.wikipedia: Brouwerij_Deca
 
+
+
 [dedollebrouwers]
   De Dolle Brouwers, 1980    #  "The Mad Brewers"
   www.dedollebrouwers.be
@@ -74,11 +71,21 @@
 # belgium.beertourism.com/belgian-breweries/de-dolle-brouwers
 
 
-[urthel]
-  Urthel|Brouwerij Urthel, 2000
-  nl.wikipedia: Brouwerij_Urthel
-  // Ruiselede
-  www.urthel.com
+
+[gaverhopke]
+  Gaverhopke
+  Steenbrugstraat 187 // 8530 Stasegem-Harelbeke
+
+
+
+
+
+[deranke]
+  De Ranke|Brouwerij De Ranke, 1994
+  Brugstraat 43 // 8560 Wevelgem
+  www.deranke.be
+  nl.wikipedia: Brouwerij_De_Ranke
+  1_700 hl  # en 2007
 
 
 [rodenbach]
@@ -86,6 +93,44 @@
   Spanjestraat 133-141 // 8800 Roeselare
   nl.wikipedia: Rodenbach_(brouwerij)
   www.rodenbach.be
+
+
+
+
+[stbernardus]
+  St. Bernardus|Sint Bernardus|Brouwerij St. Bernard, 1946
+  www.sintbernardus.be
+  wikipedia: St._Bernardus_Brewery
+  Trappistenweg 23 // 8978 Watou
+  belgianfamilybrewers
+
+[strubbe]
+  Strubbe, 1830
+  Markt 1 // 8480 Ichtegem
+  www.brouwerij-strubbe.be
+
+
+[destruise]
+  De Struise|De Struise Brouwers, 2001
+  nl.wikipedia: De_Struise_Brouwers
+  Kasteelstraat 50 //8640 Oostvleteren
+  www.struisebrouwers.be
+
+
+[urthel]
+  Urthel|Brouwerij Urthel, 2000
+  nl.wikipedia: Brouwerij_Urthel
+  // Ruiselede
+  www.urthel.com
+
+
+
+[vaneecke]
+  Van Eecke|Brouwerij Van Eecke, 1862
+  Douvieweg 2 // 8978 Watou
+  www.brouwerijvaneecke.be
+  nl.wikipedia: Brouwerij_Van_Eecke
+  belgianfamilybrewers
 
 
 [vanhonsebrouck]
@@ -104,38 +149,12 @@
   belgianfamilybrewers
 
 
-[vaneecke]
-  Van Eecke|Brouwerij Van Eecke, 1862
-  Douvieweg 2 // 8978 Watou
-  www.brouwerijvaneecke.be
-  nl.wikipedia: Brouwerij_Van_Eecke
-  belgianfamilybrewers
+[westvleteren]
+  Westvleteren
+  St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren
+  www.sintsixtus.be
 
 
-[stbernardus]
-  St. Bernardus|Sint Bernardus|Brouwerij St. Bernard, 1946
-  www.sintbernardus.be
-  wikipedia: St._Bernardus_Brewery
-  Trappistenweg 23 // 8978 Watou
-  belgianfamilybrewers
-
-
-[deranke]
-  De Ranke|Brouwerij De Ranke, 1994
-  Brugstraat 43 // 8560 Wevelgem
-  www.deranke.be
-  nl.wikipedia: Brouwerij_De_Ranke
-  1_700 hl  # en 2007
-
-
-[gaverhopke]
-  Gaverhopke
-  Steenbrugstraat 187 // 8530 Stasegem-Harelbeke
-
-[strubbe]
-  Strubbe, 1830
-  Markt 1 // 8480 Ichtegem
-  www.brouwerij-strubbe.be
 
 
 

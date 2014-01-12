@@ -7,3 +7,37 @@
 # 3 Arrondissement
 #  Dinant • Namur • Philippeville
 
+
+[dubocq]
+  Du Bocq|Brasserie du Bocq, 1858
+  Rue de la Brasserie 4 // 5530 Purnode
+  www.bocq.be
+  nl.wikipedia: Brasserie_du_Bocq
+  74_500 hl
+
+
+[caracole]
+  Brasserie_Caracole|Caracole, 1990
+  Côte Marie-Thérèse 86 // 5500 Falmignoul
+  www.brasserie-caracole.be
+  nl.wikipedia: Brasserie_Caracole
+  1_500 hl
+
+
+[rochefort]
+  Rochefort|Brasserie de Rochefort, 1595
+  Abbaye Notre Dame de St. Rémy // Rue de L'Abbaye 8 // 5580 Rochefort
+  www.abbaye-rochefort.be
+  wikipedia: Rochefort_Brewery
+  nl.wikipedia: Rochefort_(bier)
+  18_000 hl
+  trappist
+
+
+[silenrieux]
+  Silenrieux|Brasserie de Silenrieux, 1991
+  Rue Noupré 1 // 5630 Silenrieux
+  www.brasseriedesilenrieux.be
+  nl.wikipedia: Brasserie_de_Silenrieux
+  300 hl    # en 2006
+

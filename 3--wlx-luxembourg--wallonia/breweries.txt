@@ -11,7 +11,34 @@
 
 [achouffe]
   Achouffe|Brasserie d' Achouffe, 1982
-  www.achouffe.be
   Rue du Village 32 // 6666 Wibrin-Achouffe
+  www.achouffe.be
+  nl.wikipedia: Brasserie_d'Achouffe
+
+[fantome]
+  Fantôme|Brasserie Fantôme, 1988
+  Rue Préal 8 // 6997 Soy
+  www.fantome.be
+  wikipedia: Fantôme_Brewery
+  nl.wikipedia: Brasserie_Fantôme
+
+[orval]
+  Orval|Brasserie d'Orval
+  Abbaye Notre Dame D'Orval // Orval 2 // 6823 Villers-devant-Orval
+  www.orval.be
+  nl.wikipedia: Orval_(bier)
+  trappisten
+
+[oxymore]
+  Oxymore|Brasserie Oxymore, 2006
+  Rue Verte 1 // 6670 Limerlé (Gouvy)
+  nl.wikipedia: Brasserie_Oxymore
+
+[rulles]
+  Rulles|Brasserie Artisanale de Rulles 2000
+  Rue Maurice Grévisse 36 // 6724 Rulles-Habay
+  2267 hl # en 2011
+  nl.wikipedia: Brasserie_Artisanale_de_Rulles
+
 
 

@@ -8,29 +8,6 @@
 #   Halle-Vilvoorde • Leuven
 
 
-[hoegaarden]
-  Hoogaarden   ## check - no longer in operation; just a brand of AB InBev
-  Stoopkenstraat 46 // 3320 Hoegaarden
-  www.hoegaarden.com
-  wikipedia: Hoegaarden_Brewery
-  nl.wikipedia: Hoegaarden_(bier)
-
-
-[palm]
-  Palm|Brouwerij Palm, 1747
-  Steenhuffeldorp 3 // 1840 Steenhuffel
-  www.palm.be
-  wikipedia: Palm_Breweries
-  nl.wikipedia: Brouwerij_Palm
-
-
-
-[deblock]
-  De Block|Brouwerij De Block, 1887
-  Nieuwbaan 92 // 1785 Merchtem-Peizegem  # en Peizegem
-  www.satanbeer.com
-  nl.wikipedia: Brouwerij_De_Block
-  7_000 hl
 
 
 [affligem]
@@ -41,25 +18,21 @@
   heineken
 
 
-[mortsubite]
-  Mort Subite|Brouwerij Mort Subite
-  Lierput 1 // 1730 Kobbegem
-  nl.wikipedia: Brouwerij_Mort_Subite
-  60_000 hl # 2007
-  www.mort-subite.be
+[boon]
+  Boon|Brouwerij Boon, 1680  #1680/1978
+  Fonteinstraat 65 // 1502 Lembeek
+  www.boon.be
+  nl.wikipedia: Brouwerij_Boon
+  10_000 hl
 
 
-[girardin]
-  Girardin|Brouwerij Girardin, 1845
-  Lindenberg 10-12 // 1700 Sint-Ulriks-Kapelle
-  nl.wikipedia: Brouwerij_Girardin
+[deblock]
+  De Block|Brouwerij De Block, 1887
+  Nieuwbaan 92 // 1785 Merchtem-Peizegem  # en Peizegem
+  www.satanbeer.com
+  nl.wikipedia: Brouwerij_De_Block
+  7_000 hl
 
-
-[timmermans]
-  Timmermans|Brouwerij Timmermans, 1702
-  nl.wikipedia: Brouwerij_Timmermans
-  15_000 hl
-  brtimmermans.be
 
 [decam]
   De Cam|Geuzestekerij De Cam, 1992
@@ -68,12 +41,12 @@
   nl.wikipedia: Geuzestekerij_De_Cam
   100 hl
 
-[oudbeersel]
-  Oud Beersel|Geuzestekerij Oud Beersel|Brouwerij Oud Beersel, 1882 (2005)
-  Laarheidestraat 230 // 1650 Beersel
-  www.oudbeersel.com
-  nl.wikipedia: Brouwerij_Oud_Beersel
-  1_000 hl    # waarvan 50% lambikbieren - en 2010
+
+[domus]
+  Domus Huisbrouwerij|Brouwerij Domus, 1985
+  Eikstraat 14 // 3000 Leuven
+  nl.wikipedia: Brouwerij_Domus
+  www.domusleuven.be
 
 
 [driefonteinen]
@@ -85,12 +58,32 @@
   1000 hl # en 2010  - 700hl lambiek
 
 
-[boon]
-  Boon|Brouwerij Boon, 1680  #1680/1978
-  Fonteinstraat 65 // 1502 Lembeek
-  www.boon.be
-  nl.wikipedia: Brouwerij_Boon
-  10_000 hl
+[girardin]
+  Girardin|Brouwerij Girardin, 1845
+  Lindenberg 10-12 // 1700 Sint-Ulriks-Kapelle
+  nl.wikipedia: Brouwerij_Girardin
+
+
+[haacht]
+  Haacht|Brouwerij Haacht, 1898
+  Provinciesteenweg 28 // 3190 Boortmeerbeek
+  www.haacht.com
+  nl.wikipedia: Brouwerij_Haacht
+
+
+[hanssensartisanaal]
+  Hanssens Artisanaal|Geuzestekerij Hanssens Artisanaal, 1896
+  nl.wikipedia: Geuzestekerij_Hanssens_Artisanaal
+  // Dworp
+  300 hl # en 2003
+
+
+[hoegaarden]
+  Hoogaarden   ## check - no longer in operation; just a brand of AB InBev
+  Stoopkenstraat 46 // 3320 Hoegaarden
+  www.hoegaarden.com
+  wikipedia: Hoegaarden_Brewery
+  nl.wikipedia: Hoegaarden_(bier)
 
 
 [lindenmans]
@@ -101,34 +94,51 @@
   www.lindemans.be
 
 
-[domus]
-  Domus Huisbrouwerij|Brouwerij Domus, 1985
-  Eikstraat 14 // 3000 Leuven
-  nl.wikipedia: Brouwerij_Domus
-  www.domusleuven.be
-
-
 [loterbol]
   Loterbol|Brouwerij Loterbol, 1995
   www.loterbol.be
   nl.wikipedia: Brouwerij_Loterbol
 
 
-[hanssensartisanaal]
-  Hanssens Artisanaal|Geuzestekerij Hanssens Artisanaal, 1896
-  nl.wikipedia: Geuzestekerij_Hanssens_Artisanaal
-  // Dworp
-  300 hl # en 2003
 
-[haacht]
-  Haacht|Brouwerij Haacht, 1898
-  Provinciesteenweg 28 // 3190 Boortmeerbeek
-  www.haacht.com
-  nl.wikipedia: Brouwerij_Haacht
+[mortsubite]
+  Mort Subite|Brouwerij Mort Subite
+  Lierput 1 // 1730 Kobbegem
+  nl.wikipedia: Brouwerij_Mort_Subite
+  60_000 hl # 2007
+  www.mort-subite.be
+
+
+[oudbeersel]
+  Oud Beersel|Geuzestekerij Oud Beersel|Brouwerij Oud Beersel, 1882 (2005)
+  Laarheidestraat 230 // 1650 Beersel
+  www.oudbeersel.com
+  nl.wikipedia: Brouwerij_Oud_Beersel
+  1_000 hl    # waarvan 50% lambikbieren - en 2010
+
+
+[palm]
+  Palm|Brouwerij Palm, 1747
+  Steenhuffeldorp 3 // 1840 Steenhuffel
+  www.palm.be
+  wikipedia: Palm_Breweries
+  nl.wikipedia: Brouwerij_Palm
+
+
+
+
+[timmermans]
+  Timmermans|Brouwerij Timmermans, 1702
+  nl.wikipedia: Brouwerij_Timmermans
+  15_000 hl
+  brtimmermans.be
 
 [triest]
   Triest|Microbrouwerij Den Triest, 2009
   Trieststraat 24 // 1880 Kapelle-op-den-Bos
   www.dentriest.be
   nl.wikipedia: Microbrouwerij_Den_Triest
+
+
+
 

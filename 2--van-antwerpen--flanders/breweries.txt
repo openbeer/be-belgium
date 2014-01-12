@@ -9,35 +9,20 @@
 #   Antwerp • Mechelen • Turnhout
 
 
+
 [achilles]
   Achilles|Microbrouwerij Achilles, 1999
+  Keizershofdijk 2 bus 2 // 2222 Itegem
   www.serafijn-bier.be
   nl.wikipedia: Microbrouwerij_Achilles
-  Keizershofdijk 2 bus 2 // 2222 Itegem
 
 
-[hetanker]
+[anker]    # use hetanker for key ??
   Anker|Het Anker|Brouwerij Het Anker, 1873
+  Guido Gezellelaan 49 // 2800 Mechelen
   www.hetanker.be
   nl.wikipedia: Brouwerij_Het_Anker_(Mechelen)
   wikipedia: Het_Anker_Brewery
-  Guido Gezellelaan 49 // 2800 Mechelen
-
-
-[westmalle]
-  Westmalle|Brouwerij der Trappisten van Westmalle, 1836
-  Antwerpsesteenweg 496 // 2390 Westmalle
-  www.trappistwestmalle.be
-  nl.wikipedia: Westmalle_(bier)
-  wikipedia: Westmalle_Brewery
-  120_000 hl   # 2004
-  trappist
-
-
-[strubbe]
-  Strubbe|Brouwerij Strubbe
-  www.brouwerij-strubbe.be
-  Markt 1 // 8480 Ichtegem
 
 
 [dekoninck]
@@ -57,9 +42,28 @@
   270_000 hl   # 2001
 
 
+
 [pakhuis]
   Pakhuis
   Vlaamse Kaai 76 // 2000 Antwerp
   www.pakhuis.info
+
+
+[strubbe]
+  Strubbe|Brouwerij Strubbe
+  Markt 1 // 8480 Ichtegem
+  www.brouwerij-strubbe.be
+
+
+[westmalle]
+  Westmalle|Brouwerij der Trappisten van Westmalle, 1836
+  Antwerpsesteenweg 496 // 2390 Westmalle
+  www.trappistwestmalle.be
+  nl.wikipedia: Westmalle_(bier)
+  wikipedia: Westmalle_Brewery
+  120_000 hl   # 2004
+  trappist
+
+
 
 

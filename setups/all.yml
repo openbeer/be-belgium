@@ -10,7 +10,7 @@ breweries:
 - be-belgium!/3--wht-hainaut--wallonia/breweries
 - be-belgium!/3--wlg-liege--wallonia/breweries
 - be-belgium!/3--wlx-luxembourg--wallonia/breweries
-- be-belgium!/3--wna-namr--wallonia/breweries
+- be-belgium!/3--wna-namur--wallonia/breweries
 
 beers:
 - be-belgium!/1--bru-bruxelles--capital/beers
@@ -23,5 +23,5 @@ beers:
 - be-belgium!/3--wht-hainaut--wallonia/beers
 - be-belgium!/3--wlg-liege--wallonia/beers
 - be-belgium!/3--wlx-luxembourg--wallonia/beers
-- be-belgium!/3--wna-namr--wallonia/beers
+- be-belgium!/3--wna-namur--wallonia/beers
 

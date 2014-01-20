@@ -1,5 +1,5 @@
-###########################################################
-# Breweries in Limburg (VLI) - Vlaanderen [Flanders] (nl)
+##################################################################
+# Breweries in Limburg (VLI) / Vlaanderen [Flanders] / Belgium
 #
 # note: postal codes: 3500-3999
 

@@ -1,4 +1,4 @@
-#########################################################
-# Beers in Vlaanderen [Flanders] / Vlaams Brabant (nl)
+####################################################################
+# Beers in Vlaams Brabant (vbr) / Vlaanderen [Flanders] / Belgium
 
 Stella Artois

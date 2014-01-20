@@ -1,7 +1,8 @@
-########################################
-# Breweries in Vlaams Brabant (VBR) (nl)
+#############################################################
+# Breweries in Vlaams Brabant (vbr) / Flanders / Belgium
 #
 # Note: postal codes: 1500-1999, 3000-3499
+
 
 
 # Two Arrondissement

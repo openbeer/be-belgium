@@ -1,5 +1,5 @@
-#################################################
-# Beers in in Vlaanderen [Flanders] / Antwerpen
+##############################################################
+# Beers in Antwerpen (van) / Vlaanderen [Flanders] / Belgium
 
 
 _____________________________________________

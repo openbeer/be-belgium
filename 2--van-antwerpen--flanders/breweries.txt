@@ -1,5 +1,5 @@
-##############################################################
-# Breweries in Antwerpen (VAN) Vlaanderen [Flanders] / (nl)
+###################################################################
+# Breweries in Antwerpen (van) / Vlaanderen [Flanders] / Belgium
 #
 # Note: postal codes: 2000-2999
 

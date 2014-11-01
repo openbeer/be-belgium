@@ -7,7 +7,7 @@ Example:
 
 ~~~
 _____________________________________________
-- Het Anker|Brouwerij Het Anker, Mechelen
+- Het Anker|Brouwerij Het Anker | Mechelen
 
 Gouden Carolus Classic,    8.5%,  19°,    dark_special
 Gouden Carolus Tripel,       9% , 20°,    tripel

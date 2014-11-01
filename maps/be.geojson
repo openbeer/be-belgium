@@ -1,0 +1,1545 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.72895789911732,
+          51.10433735
+        ]
+      },
+      "properties": {
+        "title": "Achilles",
+        "description": "Keizershofdijk 2 bus 2 // 2222 Itegem",
+        "city": "Itegem",
+        "state": "Antwerpen",
+        "web": "www.serafijn-bier.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4803453,
+          51.0281381
+        ]
+      },
+      "properties": {
+        "title": "Anker",
+        "description": "Guido Gezellelaan 49 // 2800 Mechelen",
+        "city": "Mechelen",
+        "state": "Antwerpen",
+        "web": "www.hetanker.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3997081,
+          51.2211097
+        ]
+      },
+      "properties": {
+        "title": "De Koninck",
+        "description": "Mechelsesteenweg 291 // 2018 Antwerpen",
+        "city": "Antwerpen",
+        "state": "Antwerpen",
+        "web": "www.dekoninck.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31350057478618,
+          51.04520345
+        ]
+      },
+      "properties": {
+        "title": "Duvel Moortgat",
+        "description": "Breendonk-Dorp 58 // 2870 Breendonk-Puurs",
+        "city": "Breendonk-Puurs",
+        "state": "Antwerpen",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3997081,
+          51.2211097
+        ]
+      },
+      "properties": {
+        "title": "Pakhuis",
+        "description": "Vlaamse Kaai 76 // 2000 Antwerp",
+        "city": "Antwerp",
+        "state": "Antwerpen",
+        "web": "www.pakhuis.info",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02960818301787,
+          51.08742745
+        ]
+      },
+      "properties": {
+        "title": "Strubbe",
+        "description": "Markt 1 // 8480 Ichtegem",
+        "city": "Ichtegem",
+        "state": "West-Vlaanderen",
+        "web": "www.brouwerij-strubbe.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.67122384591837,
+          51.2995468
+        ]
+      },
+      "properties": {
+        "title": "Westmalle",
+        "description": "Antwerpsesteenweg 496 // 2390 Westmalle",
+        "city": "Westmalle",
+        "state": "Antwerpen",
+        "web": "www.trappistwestmalle.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.18381383483065,
+          50.96453415
+        ]
+      },
+      "properties": {
+        "title": "Affligem",
+        "description": "Ringlaan 18 // 1745 Opwijk",
+        "city": "Opwijk",
+        "state": "Vlaams-Brabant",
+        "web": "www.affligembeer.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.21436725397807,
+          50.7092954
+        ]
+      },
+      "properties": {
+        "title": "Boon",
+        "description": "Fonteinstraat 65 // 1502 Lembeek",
+        "city": "Lembeek",
+        "state": "Vlaams-Brabant",
+        "web": "www.boon.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.10291488788556,
+          50.7973805
+        ]
+      },
+      "properties": {
+        "title": "De Cam",
+        "description": "Dorpstraat 67a // 1755 Gooik",
+        "city": "Gooik",
+        "state": "Vlaams-Brabant",
+        "web": "www.decam.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6941851180888,
+          50.88121295
+        ]
+      },
+      "properties": {
+        "title": "Domus Huisbrouwerij",
+        "description": "Eikstraat 14 // 3000 Leuven",
+        "city": "Leuven",
+        "state": "Vlaams-Brabant",
+        "web": "www.domusleuven.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3051321494591,
+          50.7684432
+        ]
+      },
+      "properties": {
+        "title": "Drie Fonteinen",
+        "description": "Hoogstraat 2a // 1650 Beersel",
+        "city": "Beersel",
+        "state": "Vlaams-Brabant",
+        "web": "www.3fonteinen.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.22294384603332,
+          50.87962205
+        ]
+      },
+      "properties": {
+        "title": "Girardin",
+        "description": "Lindenberg 10-12 // 1700 Sint-Ulriks-Kapelle",
+        "city": "Sint-Ulriks-Kapelle",
+        "state": "Vlaams-Brabant",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.5729262,
+          50.9815937
+        ]
+      },
+      "properties": {
+        "title": "Haacht",
+        "description": "Provinciesteenweg 28 // 3190 Boortmeerbeek",
+        "city": "Boortmeerbeek",
+        "state": "Vlaams-Brabant",
+        "web": "www.haacht.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.29501528339643,
+          50.73423975
+        ]
+      },
+      "properties": {
+        "title": "Hanssens Artisanaal",
+        "description": "// Dworp",
+        "city": "Dworp",
+        "state": "Vlaams-Brabant",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8821043855392,
+          50.7873436
+        ]
+      },
+      "properties": {
+        "title": "Hoogaarden",
+        "description": "Stoopkenstraat 46 // 3320 Hoegaarden",
+        "city": "Hoegaarden",
+        "state": "Vlaams-Brabant",
+        "web": "www.hoegaarden.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.23604107208452,
+          50.805593
+        ]
+      },
+      "properties": {
+        "title": "Lindenmans",
+        "description": "Lenniksebaan 1479 // 1602 Vlezenbeek",
+        "city": "Vlezenbeek",
+        "state": "Vlaams-Brabant",
+        "web": "www.lindemans.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.25305466212123,
+          50.90570275
+        ]
+      },
+      "properties": {
+        "title": "Mort Subite",
+        "description": "Lierput 1 // 1730 Kobbegem",
+        "city": "Kobbegem",
+        "state": "Vlaams-Brabant",
+        "web": "www.mort-subite.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3051321494591,
+          50.7684432
+        ]
+      },
+      "properties": {
+        "title": "Oud Beersel",
+        "description": "Laarheidestraat 230 // 1650 Beersel",
+        "city": "Beersel",
+        "state": "Vlaams-Brabant",
+        "web": "www.oudbeersel.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.26280300390058,
+          50.99180035
+        ]
+      },
+      "properties": {
+        "title": "Palm",
+        "description": "Steenhuffeldorp 3 // 1840 Steenhuffel",
+        "city": "Steenhuffel",
+        "state": "Vlaams-Brabant",
+        "web": "www.palm.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.35805755439825,
+          51.01237055
+        ]
+      },
+      "properties": {
+        "title": "Triest",
+        "description": "Trieststraat 24 // 1880 Kapelle-op-den-Bos",
+        "city": "Kapelle-op-den-Bos",
+        "state": "Vlaams-Brabant",
+        "web": "www.dentriest.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5128696,
+          51.2547636
+        ]
+      },
+      "properties": {
+        "title": "Achel",
+        "description": "De Kluis 1 // 3930 Hamont-Achel",
+        "city": "Hamont-Achel",
+        "state": "Limburg",
+        "web": "www.achelsekluis.org",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1859427,
+          50.8150908
+        ]
+      },
+      "properties": {
+        "title": "Kerkom",
+        "description": "Naamsesteenweg 469 // 3800 Sint-Truiden",
+        "city": "Sint-Truiden",
+        "state": "Limburg",
+        "web": "www.brouwerijkerkom.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.192804319009,
+          51.0113077
+        ]
+      },
+      "properties": {
+        "title": "Bosteels",
+        "description": "Kerkstraat 92 // 9255 Buggenhout",
+        "city": "Buggenhout",
+        "state": "Oost-Vlaanderen",
+        "web": "www.bestbelgianspecialbeers.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6226347,
+          50.8695429
+        ]
+      },
+      "properties": {
+        "title": "Brouwerij Cnudde",
+        "description": "Fabriekstraat 8 // 9700 Eine-Oudenaarde",
+        "city": "Eine-Oudenaarde",
+        "state": "Oost-Vlaanderen",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6614192,
+          50.9292335
+        ]
+      },
+      "properties": {
+        "title": "Brouwerij Contreras",
+        "description": "Molenstraat 110 // 9890 Gavere",
+        "city": "Gavere",
+        "state": "Oost-Vlaanderen",
+        "web": "www.contreras.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.74876214002022,
+          50.7975785
+        ]
+      },
+      "properties": {
+        "title": "De Graal",
+        "description": "Warande 15 // 9660 Brakel",
+        "city": "Brakel",
+        "state": "Oost-Vlaanderen",
+        "web": "www.degraal.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.88785916561893,
+          50.88777235
+        ]
+      },
+      "properties": {
+        "title": "De Ryck",
+        "description": "Kerkstraat 24 // 9550 Herzele",
+        "city": "Herzele",
+        "state": "Oost-Vlaanderen",
+        "web": "www.brouwerijderyck.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9459888,
+          50.9226391
+        ]
+      },
+      "properties": {
+        "title": "Glazen Toren",
+        "description": "Glazentorenweg 11‎ // 9420 Erpe-Mere",
+        "city": "Erpe-Mere",
+        "state": "Oost-Vlaanderen",
+        "web": "www.glazentoren.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7990805,
+          51.0031757
+        ]
+      },
+      "properties": {
+        "title": "Huyghe",
+        "description": "// Melle",
+        "city": "Melle",
+        "state": "Oost-Vlaanderen",
+        "web": "www.delirium.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.604782,
+          50.8442604
+        ]
+      },
+      "properties": {
+        "title": "Liefmans",
+        "description": "Aalststraat 200 // 9700 Oudenaarde",
+        "city": "Oudenaarde",
+        "state": "Oost-Vlaanderen",
+        "web": "www.liefmans.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.192804319009,
+          51.0113077
+        ]
+      },
+      "properties": {
+        "title": "De Landtsheer",
+        "description": "Mandekensstraat 179 // 9255 Buggenhout",
+        "city": "Buggenhout",
+        "state": "Oost-Vlaanderen",
+        "web": "www.malheur.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8271355,
+          51.0991574
+        ]
+      },
+      "properties": {
+        "title": "Proef",
+        "description": "Doornzelestraat 20 //9080 Lochristi",
+        "city": "Lochristi",
+        "state": "Oost-Vlaanderen",
+        "web": "www.proefbrouwerij.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.604782,
+          50.8442604
+        ]
+      },
+      "properties": {
+        "title": "Roman",
+        "description": "Hauwaart 105 // 9700 Oudenaarde",
+        "city": "Oudenaarde",
+        "state": "Oost-Vlaanderen",
+        "web": "www.roman.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5272189,
+          50.9842367
+        ]
+      },
+      "properties": {
+        "title": "Sint Canarus",
+        "description": "Polderweg 2 // 9800 Deinze",
+        "city": "Deinze",
+        "state": "Oost-Vlaanderen",
+        "web": "www.sintcanarus.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0270799,
+          50.8380741
+        ]
+      },
+      "properties": {
+        "title": "Slaghmuylder",
+        "description": "Denderhoutembaan 2 // 9400 Ninove",
+        "city": "Ninove",
+        "state": "Oost-Vlaanderen",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8871129,
+          50.8553127
+        ]
+      },
+      "properties": {
+        "title": "Van Den Bossche",
+        "description": "Sint-Lievensplein 16 // 9550 Sint-Lievens-Esse",
+        "city": "Sint-Lievens-Esse",
+        "state": "Oost-Vlaanderen",
+        "web": "www.paterlieven.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7471789,
+          51.1793505
+        ]
+      },
+      "properties": {
+        "title": "Van Steenberge",
+        "description": "Lindenlaan 25 // 9940 Ertvelde",
+        "city": "Ertvelde",
+        "state": "Oost-Vlaanderen",
+        "web": "vansteenberge.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.20809951603418,
+          51.2315785
+        ]
+      },
+      "properties": {
+        "title": "Halve Maan",
+        "description": "// Brugge",
+        "city": "Brugge",
+        "state": "West-Vlaanderen",
+        "web": "www.halvemaan.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25707852948173,
+          51.1933202
+        ]
+      },
+      "properties": {
+        "title": "Regenboog",
+        "description": "Koningin Astridlaan 13 // 8310 Assebroek-Brugge",
+        "city": "Assebroek-Brugge",
+        "state": "West-Vlaanderen",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.38252632419177,
+          50.775415
+        ]
+      },
+      "properties": {
+        "title": "Alvinne",
+        "description": "Vaartstraat 4a // 8552 Moen/Zwevegem",
+        "city": "Moen/Zwevegem",
+        "state": "West-Vlaanderen",
+        "web": "www.alvinne.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.31260448447995,
+          50.8790473
+        ]
+      },
+      "properties": {
+        "title": "Bavik",
+        "description": "Rijksweg 33 // 8531 Bavikhove",
+        "city": "Bavikhove",
+        "state": "West-Vlaanderen",
+        "web": "www.bavik.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.29397840975737,
+          50.77325075
+        ]
+      },
+      "properties": {
+        "title": "Bockor",
+        "description": "Kwabrugstraat 5 // 8500 Bellegem",
+        "city": "Bellegem",
+        "state": "West-Vlaanderen",
+        "web": "www.bockor.be‎",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78875853114871,
+          50.9035513
+        ]
+      },
+      "properties": {
+        "title": "Brouwerij Deca",
+        "description": "Elverdingestraat 4 // 8640 Woesten",
+        "city": "Woesten",
+        "state": "West-Vlaanderen",
+        "web": "www.decabrouwerij.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3134022,
+          50.8313364
+        ]
+      },
+      "properties": {
+        "title": "Gaverhopke",
+        "description": "Steenbrugstraat 187 // 8530 Stasegem-Harelbeke",
+        "city": "Stasegem-Harelbeke",
+        "state": "West-Vlaanderen",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3037301,
+          50.7273981
+        ]
+      },
+      "properties": {
+        "title": "De Ranke",
+        "description": "Rue Petit Tourcoing 1a // 7711 Dottignies",
+        "city": "Dottignies",
+        "state": "Hainaut",
+        "web": "www.deranke.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1311101522472,
+          50.94625585
+        ]
+      },
+      "properties": {
+        "title": "Rodenbach",
+        "description": "Spanjestraat 133-141 // 8800 Roeselare",
+        "city": "Roeselare",
+        "state": "West-Vlaanderen",
+        "web": "www.rodenbach.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.64490377268737,
+          50.84520925
+        ]
+      },
+      "properties": {
+        "title": "St. Bernardus",
+        "description": "Trappistenweg 23 // 8978 Watou",
+        "city": "Watou",
+        "state": "West-Vlaanderen",
+        "web": "www.sintbernardus.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.74922244746348,
+          50.92313355
+        ]
+      },
+      "properties": {
+        "title": "De Struise",
+        "description": "Kasteelstraat 50 //8640 Oostvleteren",
+        "city": "Oostvleteren",
+        "state": "West-Vlaanderen",
+        "web": "www.struisebrouwers.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3789495803068,
+          51.062755
+        ]
+      },
+      "properties": {
+        "title": "Urthel",
+        "description": "// Ruiselede",
+        "city": "Ruiselede",
+        "state": "West-Vlaanderen",
+        "web": "www.urthel.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.64490377268737,
+          50.84520925
+        ]
+      },
+      "properties": {
+        "title": "Van Eecke",
+        "description": "Douvieweg 2 // 8978 Watou",
+        "city": "Watou",
+        "state": "West-Vlaanderen",
+        "web": "www.brouwerijvaneecke.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.26171897393295,
+          50.92196635
+        ]
+      },
+      "properties": {
+        "title": "Vanhonsebrouck",
+        "description": "Oostrozebekestraat 43 // 8770 Ingelmunster",
+        "city": "Ingelmunster",
+        "state": "West-Vlaanderen",
+        "web": "www.vanhonsebrouck.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.40109383531739,
+          50.83717555
+        ]
+      },
+      "properties": {
+        "title": "Verhaeghe",
+        "description": "Beukenhofstraat 96 // 8570 Vichte",
+        "city": "Vichte",
+        "state": "West-Vlaanderen",
+        "web": "www.brouwerijverhaeghe.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.72055089617718,
+          50.9103823
+        ]
+      },
+      "properties": {
+        "title": "Westvleteren",
+        "description": "St Sixtus Trappistenabdij // Donkerstraat 12 // 8640 Westvleteren",
+        "city": "Westvleteren",
+        "state": "West-Vlaanderen",
+        "web": "www.sintsixtus.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7333223,
+          50.3680079
+        ]
+      },
+      "properties": {
+        "title": "Abbaye des Rocs",
+        "description": "37 Chaussée Brunehault // 7387 Montignies-sur-Roc",
+        "city": "Montignies-sur-Roc",
+        "state": "Hainaut",
+        "web": "www.abbaye-des-rocs.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0031319,
+          50.5130195
+        ]
+      },
+      "properties": {
+        "title": "Augrenoise",
+        "description": "Chaussée de Bruxelles 184 // 7061 Casteau",
+        "city": "Casteau",
+        "state": "Hainaut",
+        "web": "www.augrenoise.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1685124,
+          50.4143038
+        ]
+      },
+      "properties": {
+        "title": "Binchoise",
+        "description": "Faubourg Saint Paul 38 // 7130 Binche",
+        "city": "Binche",
+        "state": "Hainaut",
+        "web": "www.brasserielabinchoise.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.1241436,
+          50.3102184
+        ]
+      },
+      "properties": {
+        "title": "Brootcoorens",
+        "description": "Rue de Maubeuge 197 // 6560 Erquelinnes",
+        "city": "Erquelinnes",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.391588,
+          50.507796
+        ]
+      },
+      "properties": {
+        "title": "Brunehat",
+        "description": "Rue des Panneries 17-19 // 7623 Rongy (Brunehaut)",
+        "city": "Rongy (Brunehaut)",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5908864,
+          50.5097897
+        ]
+      },
+      "properties": {
+        "title": "Caulier",
+        "description": "Rue de Sondeville 134 // 7600 Péruwelz",
+        "city": "Péruwelz",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2831577,
+          50.6449056
+        ]
+      },
+      "properties": {
+        "title": "Cazeau",
+        "description": "67 Rue de Cazeau  // 7520 Templeuve",
+        "city": "Templeuve",
+        "state": "Hainaut",
+        "web": "www.brasseriedecazeau.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3755329,
+          50.0298544
+        ]
+      },
+      "properties": {
+        "title": "Chimay",
+        "description": "Route de Charlemagne 8 // 6464 Baileux",
+        "city": "Baileux",
+        "state": "Hainaut",
+        "web": "www.chimay.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.575887,
+          50.582865
+        ]
+      },
+      "properties": {
+        "title": "Dubuisson",
+        "description": "Chausée de Mons 28 // 7904 Pipaix-Leuze",
+        "city": "Pipaix-Leuze",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6493593,
+          50.572688
+        ]
+      },
+      "properties": {
+        "title": "Dupont",
+        "description": "Rue Basse 5 // 7904 Tourpes-Leuze",
+        "city": "Tourpes-Leuze",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6802062,
+          50.7338701
+        ]
+      },
+      "properties": {
+        "title": "Ellezelloise",
+        "description": "Guinaumont 75 // 7890 Ellezelles",
+        "city": "Ellezelles",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7536768,
+          50.6201619
+        ]
+      },
+      "properties": {
+        "title": "Géants",
+        "description": "Rue de Castel 19 // 7801 Irchonwelz (Ath)",
+        "city": "Irchonwelz (Ath)",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9237014,
+          50.6486713
+        ]
+      },
+      "properties": {
+        "title": "Silly",
+        "description": "Rue Ville Basse 2 // 7830 Silly",
+        "city": "Silly",
+        "state": "Hainaut",
+        "web": "www.silly-beer.com",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.575887,
+          50.582865
+        ]
+      },
+      "properties": {
+        "title": "Vapeur",
+        "description": "Rue de Maréchal 1 // 7904 Pipaix-Leuze",
+        "city": "Pipaix-Leuze",
+        "state": "Hainaut",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9207511,
+          50.723243
+        ]
+      },
+      "properties": {
+        "title": "Grain d'Orge",
+        "description": "Centre 16 // 4852 Hombourg",
+        "city": "Hombourg",
+        "state": "Liège",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5100929,
+          50.285577
+        ]
+      },
+      "properties": {
+        "title": "Fantôme",
+        "description": "Rue Préal 8 // 6997 Soy",
+        "city": "Soy",
+        "state": "Luxembourg",
+        "web": "www.fantome.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3319334,
+          49.6184761
+        ]
+      },
+      "properties": {
+        "title": "Orval",
+        "description": "Abbaye Notre Dame D'Orval // Orval 2 // 6823 Villers-devant-Orval",
+        "city": "Villers-devant-Orval",
+        "state": "Luxembourg",
+        "web": "www.orval.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9238041,
+          50.156952
+        ]
+      },
+      "properties": {
+        "title": "Oxymore",
+        "description": "Rue Verte 1 // 6670 Limerlé (Gouvy)",
+        "city": "Limerlé (Gouvy)",
+        "state": "Luxembourg",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5592136,
+          49.7177028
+        ]
+      },
+      "properties": {
+        "title": "Rulles",
+        "description": "Rue Maurice Grévisse 36 // 6724 Rulles-Habay",
+        "city": "Rulles-Habay",
+        "state": "Luxembourg",
+        "web": null,
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9455473,
+          50.3142896
+        ]
+      },
+      "properties": {
+        "title": "Du Bocq",
+        "description": "Rue de la Brasserie 4 // 5530 Purnode",
+        "city": "Purnode",
+        "state": "Namur",
+        "web": "www.bocq.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8929866,
+          50.2036477
+        ]
+      },
+      "properties": {
+        "title": "Brasserie_Caracole",
+        "description": "Côte Marie-Thérèse 86 // 5500 Falmignoul",
+        "city": "Falmignoul",
+        "state": "Namur",
+        "web": "www.brasserie-caracole.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2235332,
+          50.1609485
+        ]
+      },
+      "properties": {
+        "title": "Rochefort",
+        "description": "Abbaye Notre Dame de St. Rémy // Rue de L'Abbaye 8 // 5580 Rochefort",
+        "city": "Rochefort",
+        "state": "Namur",
+        "web": "www.abbaye-rochefort.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4103561,
+          50.2251302
+        ]
+      },
+      "properties": {
+        "title": "Silenrieux",
+        "description": "Rue Noupré 1 // 5630 Silenrieux",
+        "city": "Silenrieux",
+        "state": "Namur",
+        "web": "www.brasseriedesilenrieux.be",
+        "type": "brewery",
+        "marker-color": "#008000",
+        "marker-size": "small"
+      }
+    }
+  ]
+}

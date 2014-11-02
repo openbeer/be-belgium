@@ -25,23 +25,6 @@
   wikipedia: Het_Anker_Brewery
 
 
-[dekoninck]
-  De Koninck|Brouwerij De Koninck, 1833
-  Mechelsesteenweg 291 // 2018 Antwerpen
-  www.dekoninck.be
-  wikipedia: De_Koninck_Brewery
-  nl.wikipedia: Brouwerij_De_Koninck
-  40_000 hl
-
-
-[duvelmoortgat]
-  Duvel Moortgat|Brouwerij Duvel Moortgat, 1871
-  Breendonk-Dorp 58 // 2870 Breendonk-Puurs    # en Breendonk 
-  nl.wikipedia: Brouwerij_Duvel_Moortgat
-  wikipedia: Duvel_Moortgat_Brewery
-  270_000 hl   # 2001
-
-
 
 [pakhuis]
   Pakhuis
@@ -53,17 +36,6 @@
   Strubbe|Brouwerij Strubbe
   Markt 1 // 8480 Ichtegem
   www.brouwerij-strubbe.be
-
-
-[westmalle]
-  Westmalle|Brouwerij der Trappisten van Westmalle, 1836
-  Antwerpsesteenweg 496 // 2390 Westmalle
-  www.trappistwestmalle.be
-  nl.wikipedia: Westmalle_(bier)
-  wikipedia: Westmalle_Brewery
-  120_000 hl   # 2004
-  trappist
-
 
 
 

@@ -1,0 +1,10 @@
+
+
+[duvelmoortgat]
+  Duvel Moortgat|Brouwerij Duvel Moortgat, 1871
+  Breendonk-Dorp 58 // 2870 Breendonk-Puurs    # en Breendonk
+  www.duvelmoortgat.com
+  nl.wikipedia: Brouwerij_Duvel_Moortgat
+  wikipedia: Duvel_Moortgat_Brewery
+  270_000 hl   # 2001      - assumes greater 500_000 nowadays
+

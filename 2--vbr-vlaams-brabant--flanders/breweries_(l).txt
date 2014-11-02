@@ -1,0 +1,32 @@
+
+
+[haacht]
+  Haacht|Brouwerij Haacht, 1898
+  Provinciesteenweg 28 // 3190 Boortmeerbeek
+  www.haacht.com
+  nl.wikipedia: Brouwerij_Haacht
+  8_500_000 hl (2011)   ## largest indie in Belgium
+
+
+[palm]
+  Palm|Brouwerij Palm, 1747
+  Steenhuffeldorp 3 // 1840 Steenhuffel
+  www.palm.be
+  wikipedia: Palm_Breweries
+  nl.wikipedia: Brouwerij_Palm
+
+
+###
+## add Stella Artois brewery in Leuven  (by AB InBev)
+
+
+[hoegaarden]
+  Hoogaarden (AB InBev)
+  Stoopkenstraat 46 // 3320 Hoegaarden
+  www.hoegaarden.com
+  wikipedia: Hoegaarden_Brewery
+  nl.wikipedia: Hoegaarden_(bier)
+
+  ## check - no longer in operation; just a brand of AB InBev
+
+

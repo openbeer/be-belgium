@@ -1,0 +1,11 @@
+
+
+
+[chimay]
+  Chimay, 1862
+  Route de Charlemagne 8 // 6464 Baileux
+  www.chimay.com            
+  wikipedia: Chimay_Brewery
+  nl.wikipedia: Chimay_(bier)
+  123_000 hl    ## NOTE: 2nd largest trappist brewery
+

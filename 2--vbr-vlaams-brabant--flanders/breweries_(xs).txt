@@ -1,0 +1,7 @@
+
+[triest]
+  Triest|Microbrouwerij Den Triest, 2008
+  Trieststraat 24 // 1880 Kapelle-op-den-Bos
+  www.dentriest.be
+  nl.wikipedia: Microbrouwerij_Den_Triest
+

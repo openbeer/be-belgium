@@ -14,12 +14,6 @@
   www.abbaye-des-rocs.com
   nl.wikipedia: Brasserie_de_l'Abbaye_des_Rocs
 
-[augrenoise]
-  Augrenoise|Brasserie Augrenoise, 2001
-  Chaussée de Bruxelles 184 // 7061 Casteau
-  www.augrenoise.com
-  nl.wikipedia: Brasserie_Augrenoise
-
 [binchoise]
   Binchoise|Brasserie La Binchoise, 1989
   Faubourg Saint Paul 38 // 7130 Binche
@@ -56,14 +50,6 @@
   www.brasseriedecazeau.be
   450 hl # en 2011
   nl.wikipedia: Brasserie_de_Cazeau
-
-[chimay]
-  Chimay         # check -- only brand ?? brewery in operation ??
-  Route de Charlemagne 8 // 6464 Baileux
-  www.chimay.com
-  wikipedia: Chimay_Brewery
-  nl.wikipedia: Chimay_(bier)
-  123_000 hl
 
 [deranke]
   De Ranke|Brouwerij De Ranke, 1994                 ## use Brasserie  - check is reallz in WHT not in flanders??

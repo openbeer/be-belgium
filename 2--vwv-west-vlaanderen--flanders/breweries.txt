@@ -35,15 +35,6 @@ _______________________
 # old address -> Mellestraat 138 // 8501 Heule
 
 
-[bavik]
-  Bavik|Brouwerij Bavik, 1894
-  www.bavik.be
-  Rijksweg 33 // 8531 Bavikhove
-  nl.wikipedia: Brouwerij_Bavik
-
-# untappd.com/bavik
-
-
 [bockor]
   Bockor|Brouwerij Bockor, 1892
   www.bockor.be‎
@@ -124,19 +115,11 @@ _______________________
   www.urthel.com
 
 
-
 [vaneecke]
   Van Eecke|Brouwerij Van Eecke, 1862
   Douvieweg 2 // 8978 Watou
   www.brouwerijvaneecke.be
   nl.wikipedia: Brouwerij_Van_Eecke
-  belgianfamilybrewers
-
-
-[vanhonsebrouck]
-  Vanhonsebrouck, 1900
-  www.vanhonsebrouck.be
-  Oostrozebekestraat 43 // 8770 Ingelmunster
   belgianfamilybrewers
 
 

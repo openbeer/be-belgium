@@ -1,0 +1,23 @@
+
+
+[affligem]
+  Affligem (Heineken)|Brouwerij De Smedt|Brouwerij Affligem, 1790
+  Ringlaan 18 // 1745 Opwijk
+  www.affligembeer.be
+  nl.wikipedia: Brouwerij_De_Smedt|Affligem_(bier)
+  heineken
+
+  ## move to large breweries  > 500_000 hl ???? -- check
+
+
+[mortsubite]
+  Mort Subite (Heineken)|Brouwerij Mort Subite
+  Lierput 1 // 1730 Kobbegem
+  nl.wikipedia: Brouwerij_Mort_Subite
+  www.mort-subite.be
+  60_000 hl # 2007
+  heineken
+
+  ## move to small brewery ? check production in hl ???
+
+

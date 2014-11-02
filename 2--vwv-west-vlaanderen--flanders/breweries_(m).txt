@@ -1,0 +1,17 @@
+
+
+[bavik]
+  Bavik|Brouwerij Bavik, 1894
+  www.bavik.be
+  Rijksweg 33 // 8531 Bavikhove
+  nl.wikipedia: Brouwerij_Bavik
+
+# untappd.com/bavik
+
+
+[vanhonsebrouck]
+  Vanhonsebrouck, 1900
+  www.vanhonsebrouck.be
+  Oostrozebekestraat 43 // 8770 Ingelmunster
+  belgianfamilybrewers
+

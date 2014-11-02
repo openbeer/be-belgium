@@ -11,13 +11,6 @@
 
 
 
-[affligem]
-  Affligem|Brouwerij De Smedt|Brouwerij Affligem, 1790
-  Ringlaan 18 // 1745 Opwijk
-  www.affligembeer.be
-  nl.wikipedia: Brouwerij_De_Smedt|Affligem_(bier)
-  heineken
-
 
 [boon]
   Boon|Brouwerij Boon, 1680  #1680/1978
@@ -65,26 +58,12 @@
   nl.wikipedia: Brouwerij_Girardin
 
 
-[haacht]
-  Haacht|Brouwerij Haacht, 1898
-  Provinciesteenweg 28 // 3190 Boortmeerbeek
-  www.haacht.com
-  nl.wikipedia: Brouwerij_Haacht
-
-
 [hanssensartisanaal]
   Hanssens Artisanaal|Geuzestekerij Hanssens Artisanaal, 1896
   nl.wikipedia: Geuzestekerij_Hanssens_Artisanaal
   // Dworp
   300 hl # en 2003
 
-
-[hoegaarden]
-  Hoogaarden   ## check - no longer in operation; just a brand of AB InBev
-  Stoopkenstraat 46 // 3320 Hoegaarden
-  www.hoegaarden.com
-  wikipedia: Hoegaarden_Brewery
-  nl.wikipedia: Hoegaarden_(bier)
 
 
 [lindenmans]
@@ -102,13 +81,6 @@
 
 
 
-[mortsubite]
-  Mort Subite|Brouwerij Mort Subite
-  Lierput 1 // 1730 Kobbegem
-  nl.wikipedia: Brouwerij_Mort_Subite
-  60_000 hl # 2007
-  www.mort-subite.be
-
 
 [oudbeersel]
   Oud Beersel|Geuzestekerij Oud Beersel|Brouwerij Oud Beersel, 1882 (2005)
@@ -118,27 +90,11 @@
   1_000 hl    # waarvan 50% lambikbieren - en 2010
 
 
-[palm]
-  Palm|Brouwerij Palm, 1747
-  Steenhuffeldorp 3 // 1840 Steenhuffel
-  www.palm.be
-  wikipedia: Palm_Breweries
-  nl.wikipedia: Brouwerij_Palm
-
-
-
-
 [timmermans]
   Timmermans|Brouwerij Timmermans, 1702
   nl.wikipedia: Brouwerij_Timmermans
   15_000 hl
   brtimmermans.be
-
-[triest]
-  Triest|Microbrouwerij Den Triest, 2009
-  Trieststraat 24 // 1880 Kapelle-op-den-Bos
-  www.dentriest.be
-  nl.wikipedia: Microbrouwerij_Den_Triest
 
 
 

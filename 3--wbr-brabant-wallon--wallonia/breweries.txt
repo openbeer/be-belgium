@@ -7,13 +7,3 @@
 #   Nivelles
 
 
-[lefebvre]
-  Lefèbvre|Brasserie Lefèbvre, 1876
-  Chemin du Croly 54 // 1430 Rebecq-Quenast
-  wikipedia: Lefebvre_Brewery
-  nl.wikipedia: Brouwerij_Lefebvre
-  www.brasserielefebvre.be
-
-
-
-

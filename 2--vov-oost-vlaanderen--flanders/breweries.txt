@@ -48,12 +48,6 @@
   Glazentorenweg 11‎ // 9420 Erpe-Mere
 
 
-[huyghe]
-  Huyghe|Brouwerij Huyghe, 1906
-  nl.wikipedia: Brouwerij_Huyghe
-  www.delirium.be
-  // Melle
-
 [liefmans]
   Liefmans, 1679
   wikipedia: Liefmans_Brewery
@@ -76,12 +70,6 @@
   
 # untappd.com/brewery/432
 
-  
-[roman]
-  Roman|Brouwerij Roman, 1545
-  Hauwaart 105 // 9700 Oudenaarde
-  www.roman.be
-  nl.wikipedia: Brouwerij_Roman
 
 
 [sintcanarus]
@@ -102,12 +90,4 @@
   Sint-Lievensplein 16 // 9550 Sint-Lievens-Esse
   nl.wikipedia: Brouwerij_Van_Den_Bossche
   www.paterlieven.be
-
-[vansteenberge]
-  Van Steenberge|Brouwerij Van Steenberge, 1784
-  vansteenberge.com
-  nl.wikipedia: Brouwerij_Van_Steenberge
-  Lindenlaan 25 // 9940 Ertvelde
-
-# untappd.com/brewery/7778
 
